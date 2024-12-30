@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="max-w-[70ch] mx-auto p-4">
       <p className="mt-6">
-        Hello, I'm Minami.
+        Hello, I&apos;m Minami.
         <br />
       </p>
 
