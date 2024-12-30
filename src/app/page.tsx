@@ -45,7 +45,7 @@ export default function Home() {
         </a>
       </p>
 
-      <p className="mt-6">Interested</p>
+      <p className="mt-6">Interested in</p>
       <ul className="list-['-_'] pl-4">
         <li>JavaScript, TypeScript, React, Next.js</li>
         <li>C++, Competitive programming</li>
