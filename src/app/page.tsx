@@ -51,31 +51,23 @@ export default function Home() {
       <ul className="list-['-_'] pl-4">
         <li>JavaScript, TypeScript, React, Next.js</li>
         <li>C++, Competitive programming</li>
-        <li>
-          <a href="/game" className="underline underline-offset-2">
-            Game
-          </a>
-          , Music game
-        </li>
+        <li>Game, Music game</li>
       </ul>
 
       <p className="mt-6">
-        Find me on
-        <br />
-        <a
-          href="https://github.com/minamicode"
-          className="underline underline-offset-2"
-        >
-          GitHub
-        </a>
-        <br />
+        Find me on{" "}
         <a
           href="https://bsky.app/profile/minamicode.com"
           className="underline underline-offset-2"
         >
           Bluesky
         </a>
-        <br />
+      </p>
+
+      <p className="mt-6">
+        <a href="/game" className="underline underline-offset-2">
+          Do you want to play a game?
+        </a>
       </p>
 
       <Message />
