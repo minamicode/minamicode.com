@@ -1,5 +1,3 @@
-"use client";
-
 import { useEffect, useState } from "react";
 
 const asciiArts = [
@@ -11,11 +9,15 @@ const asciiArts = [
 |____/|_|  \\___|\\__,_|\\__|_| |_|\\___(_)`,
 
   // Drink water
-  ` ____       _       _                    _            _ 
-|  _ \\ _ __(_)_ __ | | __ __      ____ _| |_ ___ _ __| |
-| | | | '__| | '_ \\| |/ / \\ \\ /\\ / / _\` | __/ _ \\ '__| |
-| |_| | |  | | | | |   <   \\ V  V / (_| | ||  __/ |  |_|
-|____/|_|  |_|_| |_|_|\\_\\   \\_/\\_/ \\__,_|\\__\\___|_|  (_)`,
+  ` ____       _       _         
+|  _ \\ _ __(_)_ __ | | __     
+| | | | '__| | '_ \\| |/ /     
+| |_| | |  | | | | |   <      
+|____/|_|  |_|_| |_|_|\\_\\   _ 
+__      ____ _| |_ ___ _ __| |
+\\ \\ /\\ / / _\` | __/ _ \\ '__| |
+ \\ V  V / (_| | ||  __/ |  |_|
+  \\_/\\_/ \\__,_|\\__\\___|_|  (_)`,
 
   // Sleep
   ` ____  _                 _ 
@@ -46,9 +48,10 @@ const Message = () => {
   const [selectedArt, setSelectedArt] = useState("");
 
   useEffect(() => {
+    // Select a random ASCII art when the component mounts
     const randomIndex = Math.floor(Math.random() * asciiArts.length);
     setSelectedArt(asciiArts[randomIndex]);
-  }, []);
+  }, []); // Empty dependency array means this runs once on mount
 
   return (
     <pre className="text-xs leading-none mt-6 font-mono">{selectedArt}</pre>
