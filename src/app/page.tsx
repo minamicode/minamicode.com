@@ -49,7 +49,12 @@ export default function Home() {
       <ul className="list-['-_'] pl-4">
         <li>JavaScript, TypeScript, React, Next.js</li>
         <li>C++, Competitive programming</li>
-        <li>Game, Music game</li>
+        <li>
+          <a href="/game" className="underline underline-offset-2">
+            Game
+          </a>
+          , Music game
+        </li>
       </ul>
 
       <p className="mt-6">
