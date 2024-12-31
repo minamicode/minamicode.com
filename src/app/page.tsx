@@ -1,3 +1,5 @@
+import Message from "./_components/Message";
+
 export default function Home() {
   return (
     <main className="max-w-[70ch] mx-auto p-4">
@@ -76,13 +78,7 @@ export default function Home() {
         <br />
       </p>
 
-      <pre className="text-xs leading-none mt-6 font-mono">
-        {` ____                 _   _          _ 
-| __ ) _ __ ___  __ _| |_| |__   ___| |
-|  _ \\| '__/ _ \\/ _\` | __| '_ \\ / _ \\ |
-| |_) | | |  __/ (_| | |_| | | |  __/_|
-|____/|_|  \\___|\\__,_|\\__|_| |_|\\___(_)`}
-      </pre>
+      <Message />
     </main>
   );
 }
