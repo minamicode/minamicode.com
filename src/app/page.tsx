@@ -65,8 +65,12 @@ export default function Home() {
       </p>
 
       <p className="mt-6">
+        <a href="/journal" className="underline underline-offset-2">
+          Journal
+        </a>{" "}
+        -{" "}
         <a href="/game" className="underline underline-offset-2">
-          Do you want to play a game?
+          Game
         </a>
       </p>
 

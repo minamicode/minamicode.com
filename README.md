@@ -43,9 +43,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ```
 app/
 ├── _components/           # Reusable components
-│   ├── MemoryGame.tsx    # Memory card game component
-│   └── Message.tsx       # Random ASCII art message component
+│   ├── JournalEntries.tsx # Journal entries component
+│   ├── MemoryGame.tsx     # Memory card game component
+│   └── Message.tsx        # Random ASCII art message component
+├── journal/              # Journal page
+│   └── page.tsx          # Journal page component
 ├── game/                 # Game page
+│   └── page.tsx          # Game page component
 ├── globals.css          # Global styles
 ├── layout.tsx           # Root layout
 └── page.tsx            # Home page
