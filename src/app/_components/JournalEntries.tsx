@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-02",
+    text: "Fixed RLS policies and implemented explicit update/insert operations for business profile settings in MarryBirds.",
+  },
+  {
     date: "2025-01-01",
     text: "Added a journal to my website.",
   },
