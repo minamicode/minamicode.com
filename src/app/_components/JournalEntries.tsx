@@ -1,11 +1,28 @@
-import React from "react";
+import React, { ReactNode } from "react";
 
 type JournalEntry = {
   date: string;
-  text: string;
+  text: string | ReactNode;
 };
 
 const entries: JournalEntry[] = [
+  {
+    date: "2025-01-04",
+    text: (
+      <>
+        Started{" "}
+        <a
+          href="https://www.dannypostma.com/seo-course"
+          className="underline underline-offset-2"
+          target="_blank"
+        >
+          learning SEO with Danny Postma
+        </a>
+        . Debugged and fixed venue listing form data flow in MarryBirds
+        Business.
+      </>
+    ),
+  },
   {
     date: "2025-01-03",
     text: "Simplified and fixed the business signup flow in MarryBirds by implementing a location matching system that connects business profiles with venue listings.",
