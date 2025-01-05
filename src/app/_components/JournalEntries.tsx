@@ -7,21 +7,12 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-05",
+    text: "Corrected website input editability states based on venue submission type, enhanced venue form validation, and fixed timeout errors in photo upload API in MarryBirds Business.",
+  },
+  {
     date: "2025-01-04",
-    text: (
-      <>
-        Started{" "}
-        <a
-          href="https://www.dannypostma.com/seo-course"
-          className="underline underline-offset-2"
-          target="_blank"
-        >
-          learning SEO with Danny Postma
-        </a>
-        . Debugged and fixed venue listing form data flow in MarryBirds
-        Business.
-      </>
-    ),
+    text: "Started learning SEO with Danny Postma. Debugged and fixed venue listing form data flow in MarryBirds Business.",
   },
   {
     date: "2025-01-03",
