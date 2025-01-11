@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-11",
+    text: "Learned about function declaration in C++ and how to plan a sitemap structure based on SEO research.",
+  },
+  {
     date: "2025-01-10",
     text: "It was my birthday today! This year, I want to deepen my knowledge of JavaScript, TypeScript, React and Next.js while learning new things like SEO. I look forward to building a lot of fun projects!",
   },
