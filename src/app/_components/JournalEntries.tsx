@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-13",
+    text: "Set up DMARC and implemented PostHog, Sentry, and LogSnap for MarryBirds.",
+  },
+  {
     date: "2025-01-12",
     text: "Reviewed the code of MarryBirds and removed unnecessary console logs.",
   },
