@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-14",
+    text: "Integrated LogSnag event tracking system for real-time monitoring in MarryBirds Business, enabling instant notifications for critical user actions.",
+  },
+  {
     date: "2025-01-13",
     text: "Set up DMARC and implemented PostHog, Sentry, and LogSnap for MarryBirds.",
   },
