@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-17",
+    text: "Enhanced business dashboard UX by implementing persistent state management and streamlined the business submission flow, ensuring a seamless transition from dashboard to the get-listed page.",
+  },
+  {
     date: "2025-01-16",
     text: "Restructured onboarding flow in MarryBirds Business to reduce friction.",
   },
