@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-23",
+    text: "Fixed business submission flow to allow form completion in any order. Changed location queries to use business profile ID instead of website URL, ensuring data persistence across all steps.",
+  },
+  {
     date: "2025-01-22",
     text: "Added support for custom tags in business venue features form, ensuring they appear alongside predefined tags in MarryBirds Business. Improved accessibility in the mobile navigation sidebar.",
   },
