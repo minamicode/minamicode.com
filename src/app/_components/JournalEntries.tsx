@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-27",
+    text: "Implemented direct email change functionality using Supabase service role, updating both Auth and database simultaneously.",
+  },
+  {
     date: "2025-01-26",
     text: "Did a lot of sports. Went for a walk in the forest and did a workout with Freeletics.",
   },
