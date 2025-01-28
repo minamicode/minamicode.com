@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-01-28",
+    text: "Added subscription cancellation date tracking to User model and implemented UI display of active-until dates for canceled subscriptions.",
+  },
+  {
     date: "2025-01-27",
     text: "Implemented direct email change functionality using Supabase service role, updating both Auth and database simultaneously.",
   },
