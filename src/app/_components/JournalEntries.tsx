@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-04",
+    text: "Moved to a new flat! Packed everything in the morning and moved them in the afternoon. Was a great workout....",
+  },
+  {
     date: "2025-02-03",
     text: "Fixed React Hook dependency warnings in LocationMap component and optimized image components with proper TypeScript types and required alt props.",
   },
