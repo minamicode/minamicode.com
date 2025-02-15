@@ -7,8 +7,16 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-15",
+    text: "Finished cleaning, recycling and everything after moving. Looked some shop for the new flat.",
+  },
+  {
+    date: "2025-02-14",
+    text: "Added color picking from canvas functionality to wedding mood board.",
+  },
+  {
     date: "2025-02-13",
-    text: "Worked on interactive color palette generation in wedding mood board.",
+    text: "Added interactive color palette generation functionality to wedding mood board.",
   },
   {
     date: "2025-02-12",
