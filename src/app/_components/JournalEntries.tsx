@@ -7,8 +7,12 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-16",
+    text: "Did final clean up after moving. Finally felt a little bit more at home.",
+  },
+  {
     date: "2025-02-15",
-    text: "Finished cleaning, recycling and everything after moving. Looked some shop for the new flat.",
+    text: "Finished cleaning, recycling and everything after moving. Looked some shop for furnitures for the new flat.",
   },
   {
     date: "2025-02-14",
