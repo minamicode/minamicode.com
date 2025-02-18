@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-18",
+    text: "Fix bugs, refactor, added text color picker function to wedding mood board.",
+  },
+  {
     date: "2025-02-17",
     text: "Enhanced resizing elements, added download function and persisting state using IndexedDB to wedding mood board.",
   },
