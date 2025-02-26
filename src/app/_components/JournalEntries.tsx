@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-26",
+    text: "Tried to fix the swiping animation of tinder-style wedding business directory, but it was not successful. Instead, added new features to store user viewing history and to display business near the user.",
+  },
+  {
     date: "2025-02-25",
     text: "Paused building the wedding seating chart maker for now, and started creating tinder-like interface for wedding business directory.",
   },
