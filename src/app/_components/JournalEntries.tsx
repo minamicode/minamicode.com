@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-02-28",
+    text: "Replaced display wedding business near user function with country selector.",
+  },
+  {
     date: "2025-02-27",
     text: "Tried to replace display wedding business near user function with country selector, but it has been challenging to implement. Work in progress!",
   },
