@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-04",
+    text: "Tested in the production environment, and it worked fine. Fixed sanity hydration issue.",
+  },
+  {
     date: "2025-03-03",
     text: "Tried to solve second load issue (not because of React Strict Mode), but it was not successful. I don't not why it's redering twice otherwise...",
   },
