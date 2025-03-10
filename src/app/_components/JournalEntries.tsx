@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-10",
+    text: "Checked the way to receive Logsnag notifications on mobile. (There is an app!) Fixed redirect authenticated users issue in sign in page and improved url validation in business dashboard.",
+  },
+  {
     date: "2025-03-09",
     text: "Did a review on the MarryBirds website with Fredd and listed all the things we work on this week.",
   },
