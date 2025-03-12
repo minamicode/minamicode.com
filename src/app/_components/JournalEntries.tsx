@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-12",
+    text: "Discussed what we want to make as free tools with Fredd. Started building a free tool which manages wedding guest list.",
+  },
+  {
     date: "2025-03-11",
     text: "Fixed data retrieval issue in business submission flow in MarryBirds Business, eliminating unnecessary AI extraction for existing venues.",
   },
