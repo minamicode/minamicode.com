@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-18",
+    text: "Enhanced guest list by fixing bugs, improving UI such as making the page resposive, add export feature, etc.",
+  },
+  {
     date: "2025-03-17",
     text: "Fixed Github Dependabot alerts and improved guest list by allowing users to input custom value for menu and group and adding immediate overview update when user add, edit or remove a guest.",
   },
