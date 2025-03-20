@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-20",
+    text: "Tested the wedding seating chart and made a list of features I want to add and things I want to fix. Fixed add table dialog z-index issue.",
+  },
+  {
     date: "2025-03-19",
     text: "Did research on existing wedding seating chart makers and started refactoring the old code.",
   },
