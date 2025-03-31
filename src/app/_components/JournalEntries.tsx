@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-03-31",
+    text: "Add unassigned guests widget to canvas, enhance add/edit guest dialog and improve UI such as the way to display guest names in wedding seating chart.",
+  },
+  {
     date: "2025-03-30",
     text: "Had a relaxing day. The weather was nice, so went for a walk in the botanical garden to see flowers.",
   },
