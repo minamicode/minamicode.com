@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-01",
+    text: "Make the page responsive in wedding seating chart. Started to make the download chart as PDF function better.",
+  },
+  {
     date: "2025-03-31",
     text: "Add unassigned guests widget to canvas, enhance add/edit guest dialog and improve UI such as the way to display guest names in wedding seating chart.",
   },
