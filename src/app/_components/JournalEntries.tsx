@@ -8,6 +8,10 @@ type JournalEntry = {
 const entries: JournalEntry[] = [
   {
     date: "2025-04-02",
+    text: "Fixed UI update issue with import guests from csv function and other warnings.",
+  },
+  {
+    date: "2025-04-02",
     text: "Fixed downloading pdf with the latest canvas state issue and added import guests from csv function.",
   },
   {
