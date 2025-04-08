@@ -7,6 +7,14 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-08",
+    text: "Fixed build errors in Wedding Locations Near Me, edited the previous blog post for Internet Garden, and did research for business ideas using Ahref.",
+  },
+  {
+    date: "2025-04-07",
+    text: "Fixed SEO related errors from Ahref by adding canonical tags and robots.ts in Wedding Locations Near Me.",
+  },
+  {
     date: "2025-04-06",
     text: "Had a relaxing day. Wrote a blog post for Internet Garden and add the seating chart to MarryBirds. Also, wrote a fun script and set up a cron to automatically make a post on Bluesky.",
   },
