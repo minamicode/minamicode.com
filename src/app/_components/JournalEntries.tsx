@@ -6,7 +6,11 @@ type JournalEntry = {
 };
 
 const entries: JournalEntry[] = [
-{
+  {
+    date: "2025-04-13",
+    text: "Learned a lot for competitive programming.",
+  },
+  {
     date: "2025-04-12",
     text: "Joined a programming contest. I feel I'm getting better at this! I could solve two problems quite fast.",
   },
