@@ -7,6 +7,22 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-21",
+    text: "Debug UPI QR Code Generator, and started builidng a Bluesky bot to post financial news.",
+  },
+  {
+    date: "2025-04-20",
+    text: "Happy Easter! Had a fun time with friends. Arrived home in the night.",
+  },
+  {
+    date: "2025-04-19",
+    text: "Had a relaxing time with friends and his family. Their dogs are so cute.",
+  },
+  {
+    date: "2025-04-18",
+    text: "Had a break and prepared for the weekend as Fredd and I spend the weekend with friends in Germany.",
+  },
+  {
     date: "2025-04-17",
     text: "Learned MDX, installed Tailwind typography plugin and added styles to blog posts on Internet Garden. Also, added new blog post I wrote yesterday.",
   },
