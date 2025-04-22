@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-22",
+    text: "Further Debugged UPI QR Code Generator, and built FinFeed (a bot to post financial news on Bluesky).",
+  },
+  {
     date: "2025-04-21",
     text: "Debug UPI QR Code Generator, and started builidng a Bluesky bot to post financial news.",
   },
