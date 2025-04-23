@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-23",
+    text: "Tried to schedule the bot on Github Actions instead of Mac cron, but still figuring out....",
+  },
+  {
     date: "2025-04-22",
     text: "Further Debugged UPI QR Code Generator, and built FinFeed (a bot to post financial news on Bluesky).",
   },
