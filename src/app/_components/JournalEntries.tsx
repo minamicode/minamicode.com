@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-27",
+    text: "Went to Geneva, visited CERN and joined guided tour! It was very interesting... Want to learn more about particle physics. Fixed Bluesky bot error",
+  },
+  {
     date: "2025-04-26",
     text: "Had relaxing morning. Fixed Bluesky investment bot posting the same content issue.",
   },  
