@@ -32,7 +32,7 @@ export default function Home() {
       </p>
 
       <p className="mt-6">
-        I&apos;m interested in JavaScript, TypeScript, React, Next.js, C++,
+        I like JavaScript, TypeScript, React, Next.js, C++,
         competitive programming and games.
       </p>
 
