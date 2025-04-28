@@ -12,7 +12,7 @@ export default function Home() {
       <p className="mt-8">Hi, I&apos;m Minami.</p>
 
       <p className="mt-6">
-        I&apos;m a co-founder of{" "}
+        I&apos;m the co-founder of{" "}
         <a href="https://internetgarden.co/" target="_blank">
           Internet Garden
         </a>
