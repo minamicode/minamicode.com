@@ -1,45 +1,11 @@
-@import 'tailwindcss';
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "tailwindcss";
 
 @theme {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-}
-
-/*
-  The default border color has changed to `currentcolor` in Tailwind CSS v4,
-  so we've added these compatibility styles to make sure everything still
-  looks the same as it did with Tailwind CSS v3.
-
-  If we ever want to remove these styles, we need to add an explicit border
-  color utility to any element that depends on these defaults.
-*/
-@layer base {
-  *,
-  ::after,
-  ::before,
-  ::backdrop,
-  ::file-selector-button {
-    border-color: var(--color-gray-200, currentcolor);
-  }
-}
-
-:root {
-  --color-bg: #f1c3b8;
-  --color-txt: #19227d;
-}
-
-body {
-  background-color: var(--color-bg);
-  color: var(--color-txt);
-  line-height: 1.6;
+  --font-display: "Roboto", "sans-serif";
 }
 
 a {
-  color: var(--color-txt);
-}
-
-@media (hover: hover) {
-  a:hover {
-    text-decoration: none;
-  }
+  color: var(--color-blue-600);
+  text-decoration: underline;
 }

@@ -16,6 +16,7 @@ export default function Game() {
       >
         <ArrowLeft size={20} /> Back
       </button>
+      <h1 className="text-xl font-bold mb-8 mt-6">Memory Game</h1>
       <MemoryGame />
     </main>
   );

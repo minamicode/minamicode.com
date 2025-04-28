@@ -92,8 +92,8 @@ const MemoryGame: React.FC = () => {
             className={`aspect-square text-2xl sm:text-3xl transition-opacity duration-200 flex items-center justify-center
               ${
                 flipped.includes(card.id) || solved.includes(card.id)
-                  ? "bg-[#f1c3b8] text-[#19227d]"
-                  : "bg-[#19227d] border border-[#f1c3b8]"
+                  ? "bg-white text-black"
+                  : "bg-blue-600 border border-white"
               }
               ${solved.includes(card.id) ? "opacity-50" : "opacity-100"}
               disabled:cursor-not-allowed`}
