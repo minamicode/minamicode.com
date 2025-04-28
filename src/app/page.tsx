@@ -25,8 +25,8 @@ export default function Home() {
           MarryBirds
         </a>{" "}
         and{" "}
-        <a href="https://www.weddinglocationsnearme.com/" target="_blank">
-          Wedding Locations Near Me
+        <a href="https://upiqrcodegenerator.com/" target="_blank">
+          UPI QR Code Generator
         </a>
         .
       </p>

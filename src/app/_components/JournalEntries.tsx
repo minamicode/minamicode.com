@@ -7,13 +7,17 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-28",
+    text: "Fixed styles of UPI QR Code Generator, and updated my personal website.",
+  },
+  {
     date: "2025-04-27",
-    text: "Went to Geneva, visited CERN and joined guided tour! It was very interesting... Want to learn more about particle physics. Fixed Bluesky bot error",
+    text: "Went to Geneva, visited CERN and joined guided tour! It was very interesting... Want to learn more about particle physics. Fixed Bluesky bot error.",
   },
   {
     date: "2025-04-26",
     text: "Had relaxing morning. Fixed Bluesky investment bot posting the same content issue.",
-  },  
+  },
   {
     date: "2025-04-25",
     text: "Did research on next business ideas, and worked on share function in UPI QR code generator, but couldn't do so much with web share API...",
