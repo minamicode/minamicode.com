@@ -1,7 +1,15 @@
 export default function Home() {
   return (
     <main className="max-w-[70ch] mx-auto p-4">
-      <p className="mt-6">Hi, I&apos;m Minami.</p>
+      <div className="mt-6">
+        <img
+          src="/minami.jpg"
+          alt="Minami"
+          className="rounded-full w-32 h-32 object-cover"
+        />
+      </div>
+
+      <p className="mt-8">Hi, I&apos;m Minami.</p>
 
       <p className="mt-6">
         I&apos;m a co-founder of{" "}
