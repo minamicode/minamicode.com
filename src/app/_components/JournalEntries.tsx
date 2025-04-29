@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-29",
+    text: "Fixed UPI QR Code Generator for mobile, especially tooltips overflow issue, with Floating UI. Watched video with Jason Cohen to learn more about ideal bootstrapped business.",
+  },
+  {
     date: "2025-04-28",
     text: "Fixed styles of UPI QR Code Generator, and updated my personal website.",
   },
