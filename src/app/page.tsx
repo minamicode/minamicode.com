@@ -32,8 +32,8 @@ export default function Home() {
       </p>
 
       <p className="mt-6">
-        I like JavaScript, TypeScript, React, Next.js, C++, competitive
-        programming and gaming.
+        I&apos;m interested in JavaScript, TypeScript, React, Next.js, Python,
+        C++, competitive programming and gaming.
       </p>
 
       <p className="mt-6">
@@ -46,7 +46,7 @@ export default function Home() {
 
       <p className="mt-6">
         Would you like to read my <a href="/journal">journal</a> or play a{" "}
-        <a href="/game">game</a>?
+        <a href="/game">memory game</a>?
       </p>
     </main>
   );
