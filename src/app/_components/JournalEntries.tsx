@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-04-30",
+    text: "Learned how to do SEO research with Ahrefs, started to do research to find new niches.",
+  },
+  {
     date: "2025-04-29",
     text: "Fixed UPI QR Code Generator for mobile, especially tooltips overflow issue, with Floating UI. Watched video with Jason Cohen to learn more about ideal bootstrapped business.",
   },
