@@ -8,11 +8,11 @@ type JournalEntry = {
 const entries: JournalEntry[] = [
   {
     date: "2025-05-04",
-    text: "Arrived Athens to do remote work. Explored the city a bit, and had great food and freddo cappuccino.",
+    text: "Arrived in Athens to do remote work. Explored the city a bit, and had great food and freddo cappuccino!",
   },
   {
     date: "2025-05-03",
-    text: "Joined a programming contest, but couldn't perform well at all today! Need to more learn C++. In the evening, flied to Athens.",
+    text: "Joined a programming contest, but couldn't perform well at all today! Need to learn C++ more. In the evening, flied to Athens.",
   },
   {
     date: "2025-05-02",
