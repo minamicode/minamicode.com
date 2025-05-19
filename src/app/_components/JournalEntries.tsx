@@ -7,6 +7,18 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-05-19",
+    text: "Fixed errors and added currency selector.",
+  },
+  {
+    date: "2025-05-18",
+    text: "Enhanced PDF layout and improved mobile view.",
+  },
+  {
+    date: "2025-05-17",
+    text: "Finished styling and added form validation. Joined a programming contest.",
+  },
+  {
     date: "2025-05-16",
     text: "Started adding styles using tailwind plus.",
   },
