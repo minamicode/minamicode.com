@@ -23,17 +23,13 @@ export default function Home() {
         I&apos;m currently working on{" "}
         <a href="https://marrybirds.com/" target="_blank">
           MarryBirds
-        </a>{" "}
-        and{" "}
-        <a href="https://upiqrcodegenerator.com/" target="_blank">
-          UPI QR Code Generator
         </a>
         .
       </p>
 
       <p className="mt-6">
-        I&apos;m interested in JavaScript, TypeScript, React, Next.js, Python,
-        C++, competitive programming and gaming.
+        I like JavaScript, TypeScript, React, Next.js, Python, C++, competitive
+        programming and gaming.
       </p>
 
       <p className="mt-6">
