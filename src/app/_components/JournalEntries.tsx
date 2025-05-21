@@ -6,7 +6,11 @@ type JournalEntry = {
 };
 
 const entries: JournalEntry[] = [
- {
+  {
+    date: "2025-05-21",
+    text: "Fixed styles of payslip generator and started creating sample payslip templates in word and excel....",
+  },
+  {
     date: "2025-05-20",
     text: "Refactored code using config file, fix texts and warnings. Started working on payslip template.",
   },
