@@ -7,15 +7,19 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
-    date: "2025-05-23",
+    date: "2025-05-28",
+    text: "Fixed a bug in UPI QR Code Generator and restructured PayrollRabbit (our new project).",
+  },
+  {
+    date: "2025-05-27",
     text: "I'm still not 100% well, but I feel much better. Added customisation function to UPI QR Code Generator.",
   },
   {
-    date: "2025-05-23",
+    date: "2025-05-26",
     text: "Felt a bit better and started working, but slowly.",
   },
   {
-    date: "2025-05-23",
+    date: "2025-05-25",
     text: "Rested in the bed the entire day.",
   },
   {
