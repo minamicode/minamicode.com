@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-05",
+    text: "Learned about HRA and Statutory Bonus in India, and built HRA Calculator and Statutory Bonus Calculator.",
+  },
+  {
     date: "2025-06-04",
     text: "Added multi language support (English and Hindi) to UPI QR Code Generator using next-intl. It was painful to create the translation files, it must have been other ways to do this....",
   },
