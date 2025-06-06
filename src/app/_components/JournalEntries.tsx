@@ -8,6 +8,10 @@ type JournalEntry = {
 const entries: JournalEntry[] = [
   {
     date: "2025-06-05",
+    text: "Started building in-hand salary calculator.",
+  },
+  {
+    date: "2025-06-05",
     text: "Learned about HRA and Statutory Bonus in India, and built HRA Calculator and Statutory Bonus Calculator.",
   },
   {
