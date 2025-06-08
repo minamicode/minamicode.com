@@ -24,10 +24,6 @@ export default function Home() {
         <a href="https://marrybirds.com/" target="_blank">
           MarryBirds
         </a>
-        and
-        <a href="https://www.payrollrabbit.com/" target="_blank">
-          PayrollRabbit
-        </a>
         .
       </p>
 
