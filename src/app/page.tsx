@@ -24,11 +24,15 @@ export default function Home() {
         <a href="https://marrybirds.com/" target="_blank">
           MarryBirds
         </a>
+        and
+        <a href="https://www.payrollrabbit.com/" target="_blank">
+          PayrollRabbit
+        </a>
         .
       </p>
 
       <p className="mt-6">
-        I like JavaScript, TypeScript, React, Next.js, Python, C++, competitive
+        I like JavaScript, TypeScript, React, Next.js, C++, competitive
         programming and gaming.
       </p>
 
