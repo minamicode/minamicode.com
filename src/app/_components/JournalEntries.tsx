@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-13",
+    text: "Added digital signature function to Salary Certificate Generator using react-signature-canvas.",
+  },
+  {
     date: "2025-06-12",
     text: "Built Salary Certificate Generator and added Crisp to PayrollRabbit. Improved GST Calculator.",
   },
