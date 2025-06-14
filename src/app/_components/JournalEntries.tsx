@@ -7,8 +7,12 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-14",
+    text: "Added Hindi metadata and refactored language switcher in UPI QR Code Generator. Joined a programming contest.",
+  },
+  {
     date: "2025-06-13",
-    text: "Added digital signature function to Salary Certificate Generator using react-signature-canvas.",
+    text: "Added digital signature function to Salary Certificate Generator using react-signature-canvas. Worked on SEO optimasation and updated sitemap in UPI QR Code Generator.",
   },
   {
     date: "2025-06-12",
