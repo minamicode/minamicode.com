@@ -7,6 +7,18 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-17",
+    text: "Built Overtime Pay Calculator for PayrollRabbit.",
+  },
+  {
+    date: "2025-06-16",
+    text: "Built Clock In and Out Calculator for PayrollRabbit.",
+  },
+  {
+    date: "2025-06-15",
+    text: "Learned for programming contest. Fixed bugs for PayrollRabbit.",
+  },
+  {
     date: "2025-06-14",
     text: "Added Hindi metadata and refactored language switcher in UPI QR Code Generator. Joined a programming contest.",
   },
