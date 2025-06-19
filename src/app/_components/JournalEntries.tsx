@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-19",
+    text: "Built Contractor Pay Calculator and improved existing free tools for PayrollRabbit.",
+  },
+  {
     date: "2025-06-18",
     text: "Reviewed and fixed a few things in Clock In and Out Calculator and Overtime Pay Calculator. Built Salary Hike Calculator for PayrollRabbit.",
   },
