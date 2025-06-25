@@ -7,6 +7,14 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-25",
+    text: "Finished building TDS Calculator and built NPS Calculator for PayrollRabbit.",
+  },
+  {
+    date: "2025-06-24",
+    text: "Started building TDS Calculator for PayrollRabbit.",
+  },
+  {
     date: "2025-06-23",
     text: "Built EPF Calculator for PayrollRabbit. Struggled to understand the EPF rules in India!",
   },
