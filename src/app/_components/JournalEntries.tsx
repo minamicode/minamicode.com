@@ -7,6 +7,18 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-06-29",
+    text: "Wrote a blog post for Internet Garden. Discussed prerequisites for PayrollRabbit with Frederic.",
+  },
+  {
+    date: "2025-06-28",
+    text: "Learn about upstream prerequisites in software development and joined a programming contest.",
+  },
+  {
+    date: "2025-06-27",
+    text: "Added scroll progress bar, table of contents and filter to blog pages in PayrollRabbit.",
+  },
+  {
     date: "2025-06-26",
     text: "Built Income Tax Calculator for PayrollRabbit.",
   },
