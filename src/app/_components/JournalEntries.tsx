@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-07-10",
+    text: "Added types and service functions.",
+  },
+  {
     date: "2025-07-09",
     text: "Implemented basic auth, sign up, login, logout, reset password, etc..",
   },
