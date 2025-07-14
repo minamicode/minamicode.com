@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-07-14",
+    text: "Set up paddle, Integrated it in sign up flow, but only with local trial, not customer creation.",
+  },
+  {
     date: "2025-07-13",
     text: "Further refactored the code, especially the auth flow.",
   },
