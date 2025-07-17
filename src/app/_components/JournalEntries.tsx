@@ -7,6 +7,14 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-07-17",
+    text: "Add role-based navigation system, salary structure management, subscription management, enhanced paddle integration, multi-tenant security and testing.",
+  },
+  {
+    date: "2025-07-16",
+    text: "Implemented employee dashboard and CRUD operations, and set up invitation email flow.",
+  },
+  {
     date: "2025-07-15",
     text: "Implemented company dashboard and CRUD operations.",
   },
