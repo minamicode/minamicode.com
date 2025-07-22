@@ -7,6 +7,22 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-07-22",
+    text: "Added PF and ESI calculations to the salary calculator.",
+  },
+  {
+    date: "2025-07-21",
+    text: "Started building a salary calculator with basic earnings, deductions, and net pay calculations.",
+  },
+  {
+    date: "2025-07-20",
+    text: "Took a day off.",
+  },
+  {
+    date: "2025-07-19",
+    text: "Refactor company, employee, and other components.",
+  },
+  {
     date: "2025-07-18",
     text: "Refactor auth, checkout and dashboard components.",
   },
