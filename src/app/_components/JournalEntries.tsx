@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-07-23",
+    text: "Added TDS and professional tax calculations to the salary calculator.",
+  },
+  {
     date: "2025-07-22",
     text: "Added PF and ESI calculations to the salary calculator.",
   },
