@@ -21,8 +21,8 @@ export default function Home() {
 
       <p className="mt-6">
         I&apos;m currently working on{" "}
-        <a href="https://marrybirds.com/" target="_blank">
-          MarryBirds
+        <a href="https://www.payrollrabbit.com/" target="_blank">
+          PayrollRabbit
         </a>
         .
       </p>
