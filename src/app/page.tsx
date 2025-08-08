@@ -1,8 +1,10 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <main className="max-w-[70ch] mx-auto p-4">
       <div className="mt-6">
-        <img
+        <Image
           src="/minami.jpg"
           alt="Minami"
           className="rounded-full w-32 h-32 object-cover"
@@ -21,7 +23,7 @@ export default function Home() {
 
       <p className="mt-6">
         I&apos;m currently working on{" "}
-        <a href="https://www.payrollrabbit.com/" target="_blank">
+        <a href="https://www.payrollrabbit.com/free-tools" target="_blank">
           PayrollRabbit
         </a>
         .
