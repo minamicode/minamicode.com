@@ -7,6 +7,10 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-08-15",
+    text: "Worked on optimising the page load as it was quite slow. After a lot of investigation, ended up changing the server location....",
+  },
+  {
     date: "2025-08-14",
     text: "Enhanced dal and dto, and applied them in tax details, statutory components and salary components settings pages.",
   },
