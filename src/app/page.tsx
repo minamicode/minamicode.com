@@ -7,6 +7,8 @@ export default function Home() {
         <Image
           src="/minami.jpg"
           alt="Minami"
+          width={200}
+          height={200}
           className="rounded-full w-32 h-32 object-cover"
         />
       </div>
