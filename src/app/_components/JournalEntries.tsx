@@ -9,6 +9,11 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-08-23",
+    text: "Refactored company details form.",
+    chart: 7,
+  },
+  {
     date: "2025-08-22",
     text: "Fix SonorQube warnings and started refactoring company settings forms.",
     chart: 4,
