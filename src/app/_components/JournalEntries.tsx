@@ -9,6 +9,16 @@ type JournalEntry = {
 
 const entries: JournalEntry[] = [
   {
+    date: "2025-08-27",
+    text: "Refactored esi and statutory bonus, add success notification and refactor dal, dto, acitons and validations.",
+    chart: 7,
+  },
+  {
+    date: "2025-08-26",
+    text: "Refactored statutory components page and epf.",
+    chart: 4,
+  },
+  {
     date: "2025-08-25",
     text: "Refactored tax details and pay schedule forms in company settings.",
     chart: 6,
