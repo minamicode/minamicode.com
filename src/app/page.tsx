@@ -27,6 +27,10 @@ export default function Home() {
         I&apos;m currently working on{" "}
         <a href="https://www.payrollrabbit.com/free-tools" target="_blank">
           PayrollRabbit
+        </a>{" "}
+        and{" "}
+        <a href="https://remotecorgi.com" target="_blank">
+          RemoteCorgi
         </a>
         .
       </p>
