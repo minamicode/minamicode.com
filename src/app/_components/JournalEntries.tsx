@@ -1,5 +1,4 @@
 import React, { ReactNode } from "react";
-import Chart from "./Chart";
 
 type JournalEntry = {
   date: string;
@@ -1036,8 +1035,6 @@ const entries: JournalEntry[] = [
 export default function JournalEntries() {
   return (
     <div className="space-y-8">
-      <Chart entries={entries} title="How was the day?" height={250} />
-
       {entries.map((entry, index) => (
         <div key={index} className="border-l-2 border-[var(--color-txt)] pl-4">
           <time className="text-sm opacity-80">{entry.date}</time>

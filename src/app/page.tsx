@@ -36,11 +36,6 @@ export default function Home() {
       </p>
 
       <p className="mt-6">
-        I like JavaScript, TypeScript, React, Next.js, C++, competitive
-        programming and gaming.
-      </p>
-
-      <p className="mt-6">
         Find me on{" "}
         <a href="https://bsky.app/profile/minamicode.com" target="_blank">
           Bluesky
