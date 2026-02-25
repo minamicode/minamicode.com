@@ -29,7 +29,7 @@ export default function Home() {
           PayrollRabbit
         </a>{" "}
         and{" "}
-        <a href="https://remotecorgi.com" target="_blank">
+        <a href="https://www.remotecorgi.co.uk/" target="_blank">
           RemoteCorgi
         </a>
         .
