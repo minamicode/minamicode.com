@@ -43,10 +43,10 @@ export default function Home() {
         .
       </p>
 
-      <p className="mt-6">
+      {/* <p className="mt-6">
         Would you like to read my <a href="/journal">journal</a> or play a{" "}
         <a href="/game">memory game</a>?
-      </p>
+      </p> */}
     </main>
   );
 }
