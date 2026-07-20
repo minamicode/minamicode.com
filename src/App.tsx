@@ -21,12 +21,12 @@ function App() {
 
       <p className="mt-6">
         I'm currently working on{" "}
-        <a href="https://www.payrollrabbit.com/free-tools" target="_blank">
-          PayrollRabbit
+        <a href="https://www.wfhjobs.co.uk/" target="_blank">
+          WFH Jobs
         </a>{" "}
         and{" "}
-        <a href="https://www.remotecorgi.co.uk/" target="_blank">
-          RemoteCorgi
+        <a href="https://www.bankconverter.io/" target="_blank">
+          BankConverter
         </a>
         .
       </p>
